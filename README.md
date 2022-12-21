@@ -1,2 +1,2 @@
-# andinata.github-io
+# andinata.github.io
 Belajar Website
